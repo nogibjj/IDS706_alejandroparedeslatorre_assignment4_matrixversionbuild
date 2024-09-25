@@ -1,10 +1,19 @@
-# IDS706_alejandroparedeslatorre_template
+# IDS706_alejandroparedeslatorre_multipleversions
 First assignment 706 Alejandro Paredes La Torre 
 
-[![CI](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_template/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_template/actions/workflows/hello.yml)
+## Purpose of project
+The purpose of this project is to test multiple python versions and environments in Github Actions. 
 
+I use `setup-python` action in conjuction with `matrix strategy` to run multiple jobs with different configurations. 
 
-This repo contains my work for Create Python Gitlab Template assignment of IDS 706. If you want to use this just refer this to a codespace in github and wait for the devcontainer to execute the Makefile that execute the following: install, format, lint, test.
+`main.py` is going to return the versionn of the python version
+
+## Preparation
+1. open codespaces 
+2. wait for container to be built and virtual environment to be activated with requirements.txt installed 
+3. make changes to any parts of the code `main.py` or `test_main.py`
+4. push to see code testing in different operating systems and different python environments 
+
 
 According to the requirement it gets added
 
@@ -14,12 +23,10 @@ According to the requirement it gets added
 
 * `requirements.txt` with a set of specifications
 
-* `githubactions` 
+* `githubactions` with a matrix of python versions 
 
 * `.devcontainer` for Githubcodespace 
 
-## Purpose of project
-The purpose of this project is to have a python template that includes a main.py file that has only one function called print_custom_message(name, year, month, day) that takes as input a Name and a birthday split as year, month and day of birthday. This function returns the age of the input in years and months specified in the main part of the file. I test this function with the help of the file test_main.py
 
 ## Preparation
 1. open codespaces 
