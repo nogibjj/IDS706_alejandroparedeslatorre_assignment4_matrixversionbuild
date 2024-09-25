@@ -10,6 +10,6 @@ def os_and_sys_version():
 
 
 if __name__ == "__main__":
-    python_version, os_name = os_and_sys_version()
-    print(f"Python version: {python_version}")
-    print(f"OS name: {os_name}")
+    python_version_str, os_name_str = os_and_sys_version()
+    print(f"Python version: {python_version_str}")
+    print(f"OS name: {os_name_str}")
