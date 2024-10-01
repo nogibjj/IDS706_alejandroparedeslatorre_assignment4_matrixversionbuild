@@ -1,7 +1,5 @@
 # IDS706_alejandroparedeslatorre_multipleversions
-First assignment 706 Alejandro Paredes La Torre 
-
-[![CI](https://github.com/nogibjj/Jeremy_Tan_IDS706_Week4/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Jeremy_Tan_IDS706_Week4/actions/workflows/ci.yml)
+Assignment 4
 
 ## Purpose of project
 The purpose of this project is to test multiple python versions and environments in Github Actions. 
