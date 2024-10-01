@@ -1,4 +1,6 @@
 # IDS706_alejandroparedeslatorre_multipleversions
+[![CI](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment4_matrixversionbuild/actions/workflows/CI.yml/badge.svg)](https://github.com/nogibjj/IDS706_alejandroparedeslatorre_assignment4_matrixversionbuild/actions/workflows/CI.yml)
+
 Assignment 4
 
 ## Purpose of project
