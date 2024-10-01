@@ -3,6 +3,8 @@
 
 Assignment 4
 
+!(matrix_run)[matrix_run.JPG]
+
 ## Purpose of project
 The purpose of this project is to test multiple python versions and environments in Github Actions. 
 
